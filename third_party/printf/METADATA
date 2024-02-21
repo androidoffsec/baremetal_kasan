@@ -1,0 +1,14 @@
+name: "printf"
+description:
+    "A printf / sprintf Implementation for Embedded Systems."
+
+third_party {
+  identifier {
+    type: "Git"
+    value: "https://github.com/mpaland/printf"
+    primary_source: true
+  }
+  version: "d3b984684bb8a8bdc48cc7a1abecb93ce59bbe3e"
+  last_upgrade_date { year: 2024 month: 2 day: 23 }
+  license_type: NOTICE
+}
